@@ -1,0 +1,33 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .orgname {
+    font-size: .95em; transform: scale(1, 1.25);
+  } 
+  .orgname1 {
+    font-size: .95em; transform: scale(1, 1.25); word-wrap: break-word; text-align: center;padding:0px; margin:4px 0px 0px 0px;
+  }
+   .orglogo {max-width:60px; height: auto; padding: 2px;}
+   .spacing {padding:0px 10px 10px 10px;}
+   
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 767px) {
+.orgname1 {
+    font-size: 1.35em; transform: scale(1, 1.25);  text-align: left;padding:0px; margin:15px 0px 0px 0px; 
+  }
+  .img-res1 {max-width:60px; height: auto; padding: 2px; }
+}
+
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+.orgname1 {
+    font-size: 1.35em; transform: scale(1, 1.25);  text-align: left;padding:0px; margin:15px 0px 0px 0px; 
+  }
+   .img-res1 {max-width:60px; height: auto; padding: 2px; }
+}
+
+
+@media only screen  and (min-width : 1224px) {
+ .orgname {
+
+ }
+}

@@ -1,0 +1,1 @@
+<footer class="footerstyle"><a href="#">&copy; Smart Users Portal</a></footer>
